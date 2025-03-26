@@ -1,0 +1,10 @@
+path: "A:/GitHub Project/Projects/Object_Detection/Wildlife detection"
+train: images/train
+val: images/val
+
+names:
+  0: bear
+  1: cat
+  2: cow
+  3: coyote
+  4: objects
